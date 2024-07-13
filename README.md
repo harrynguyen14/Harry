@@ -51,10 +51,10 @@
 
 ### Project
 <p>
-    <a href="https://github.com/harrynguyen14/stock_price.git" target="_blank">Stock Price</a>
-    <a href="https://github.com/harrynguyen14/Sentiment-Analysis.git" target="_blank">Sentiment Analysis</a>
-    <a href="https://github.com/harrynguyen14/ITSTARVN-Project.git" target="_blank">ITSTARVN Project</a>
-    <a href="https://github.com/harrynguyen14/Sales-Report.git" target="_blank">Sales Report</a>
+    <a href="https://github.com/harrynguyen14/stock_price.git" target="_blank">Stock Price</p></a>
+    <a href="https://github.com/harrynguyen14/Sentiment-Analysis.git" target="_blank">Sentiment Analysis</p></a>
+    <a href="https://github.com/harrynguyen14/ITSTARVN-Project.git" target="_blank">ITSTARVN Project</p></a>
+    <a href="https://github.com/harrynguyen14/Sales-Report.git" target="_blank">Sales Report</p></a>
 </p>
 
 
