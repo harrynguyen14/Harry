@@ -30,8 +30,6 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
     <a href="#"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Latex" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases
@@ -47,6 +45,16 @@
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Latex" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+</p>
+
+### Project
+<p>
+    <a href="https://github.com/harrynguyen14/stock_price.git" target="_blank">Stock Price</a>
+    <a href="https://github.com/harrynguyen14/Sentiment-Analysis.git" target="_blank">Sentiment Analysis</a>
+    <a href="https://github.com/harrynguyen14/ITSTARVN-Project.git" target="_blank">ITSTARVN Project</a>
+    <a href="https://github.com/harrynguyen14/Sales-Report.git" target="_blank">Sales Report</a>
 </p>
 
 
