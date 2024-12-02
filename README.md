@@ -30,6 +30,7 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
     <a href="#"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+    <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/powerBI-FFA500"></a>
 </p>
 
 ### 🗄️ Databases
