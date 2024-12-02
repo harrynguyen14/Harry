@@ -64,7 +64,6 @@
 <h1>Connect With Me</h1>
 <p align="left">
 <a href="www.linkedin.com/in/minhnn14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/minhnn14" height="30" width="40" /></a>
-<a href="https://www.facebook.com/harry.nguyen.10888938/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/harry.nguyen.10888938/" height="30" width="40" /></a>
 </p>
 <h1> </h1>
 
