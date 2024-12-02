@@ -35,6 +35,7 @@
 ### 🗄️ Databases
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="SQLServer" src="https://img.shields.io/badge/SQLServer-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
 ### 💻 Tools
