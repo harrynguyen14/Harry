@@ -51,9 +51,11 @@
 
 ### Project
 <p>
-    <a href="https://github.com/harrynguyen14/stock_price.git" target="_blank">Stock Price</p></a>
+    <a href="https://github.com/harrynguyen14/Corp_analysis.git" target="_blank">Stock Price Analysis</p></a>
+    <a href="https://github.com/harrynguyen14/User_Behavior.git" target="_blank">User Mobile Behavior Analysis</p></a>
+    <a href="https://github.com/harrynguyen14/QLHH.git" target="_blank">Managing Inventory Using SQL</p></a>
+    <a href="https://github.com/harrynguyen14/Cap_paper.git" target="_blank">RISK-AWARE RECOMMENDER FOR E-COMMERCE</p></a>
     <a href="https://github.com/harrynguyen14/Sentiment-Analysis.git" target="_blank">Sentiment Analysis</p></a>
-    <a href="https://github.com/harrynguyen14/ITSTARVN-Project.git" target="_blank">ITSTARVN Project</p></a>
     <a href="https://github.com/harrynguyen14/Sales-Report.git" target="_blank">Sales Report</p></a>
 </p>
 
